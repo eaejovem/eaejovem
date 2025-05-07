@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-  <h2>Linguagens e Ferrramentas</h2>
+  <h2>Linguagens e Ferramentas</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" title="Node" width="50" height="50">
